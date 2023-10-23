@@ -1,5 +1,5 @@
 .page {
-  padding: 8.5rem 4rem 15.13rem;
+  padding: 8.5rem 4rem 14.81rem;
   background-color: #f1f1f1;
   width: 100%;
   overflow-y: auto;
@@ -19,26 +19,26 @@
 .font_1 {
   font-size: 1rem;
   font-family: Inter;
-  line-height: 0.94rem;
+  color: #298bd1;
 }
 .text {
-  color: #298bd1;
   font-weight: 700;
+  line-height: 0.94rem;
 }
 .text_2 {
-  color: #298bd1;
-  font-size: 1rem;
-  font-family: Inter;
   line-height: 1.03rem;
 }
 .button {
-  margin: 3rem 1.5rem 0 1.38rem;
+  margin: 2.5rem 1.5rem 0 1.38rem;
 }
 .text-wrapper {
-  padding: 0.75rem 0;
+  padding: 0.88rem 0;
   background-color: #0094ff;
   border-radius: 0.31rem;
 }
 .text_3 {
   color: #ffffff;
+  font-size: 1.13rem;
+  font-family: Inter;
+  line-height: 1.03rem;
 }
