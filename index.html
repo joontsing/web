@@ -20,8 +20,8 @@
         <span class="text_2">支持doc(x)、ppt(x)、pdf格式文件</span>
       </div>
       <div class="flex-col justify-start items-center button text-wrapper">
-        <input type="file" id="fileInput" style="display:none;">
-        <button class="font_1 text_3" style="background-color:#0094ff;color:#fff; border:none;border-radius:5px;cursor:pointer;" onclick="document.getElementById('fileInput').click();">请选择本地文件</button>
+        <input type="file" id="fileInput" style="display:none;"  accept=".doc,.docx,.ppt,.pptx,.pdf">
+        <button class="font_1 text_3" style="background-color:#0094ff;color:#fff;border:none;border-radius:5px;cursor:pointer;" onclick="selectFile()">选择文件</button>
       </div>
     </div>
   </body>
